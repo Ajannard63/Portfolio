@@ -22,7 +22,7 @@
 </script>
 <style>
 .bg-custom {
-	background-image: url('src/assets/bg.jpg');
+	background-image: url('../assets/bg.jpg');
 }
 
 .text-animate {
