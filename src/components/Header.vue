@@ -3,7 +3,7 @@
 	<header class="bg-gradient-to-r from-zinc-900 via-gray-700 to-cyan-800 text-white py-5">
 		<nav class="container mx-auto flex justify-between items-center px-4 md:px-0">
 			<!-- Logo ou titre du site -->
-			<div class=""><img class="h-24 bg-white p-2" src="src/assets/LogoAJ.png" alt=""></div>
+			<div class=""><img class="h-24 bg-white p-2" src="../assets/LogoAJ.png" alt=""></div>
 
 			<!-- Liens de navigation pour les écrans larges -->
 			<div class="hidden md:flex space-x-4">
