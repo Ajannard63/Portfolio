@@ -6,7 +6,7 @@
         <div v-for="project in projects" :key="project.title" class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-700 border-opacity-60 rounded-lg overflow-hidden">
             <!-- Mettre un v-if pour vérifier si l'image existe -->
-            <img v-if="project.image" class="lg:h-48 md:h-36 w-full object-cover object-center bg-white" :src="project.image" :alt="project.title">
+            <img v-if="project.image" class="lg:h-48 md:h-36 w-full object-cover object-center bg-white text-black" :src="project.image" :alt="project.title">
             <div class="p-6">
               <h2 class="text-xl font-medium text-cyan-300 mb-1">{{ project.title }}</h2>
               <!-- <h1 class="title-font text-lg font-medium mb-3">Description Courte</h1> -->
