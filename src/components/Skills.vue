@@ -20,7 +20,7 @@
 					<img class="h-20 icon" src="../../public/logo/xd.png" alt="Adobe XD">
 					<img class="h-20 icon" src="../../public/logo/Audition.png" alt="Audition">
 					<img class="h-20 icon" src="../../public/logo/Premier.png" alt="Premiere">
-					<img class="h-20 icon" src="../../public/logo/Ai.png" alt="Illustrator">
+					<img class="h-20 icon" src="../../public/logo/AI.png" alt="Illustrator">
 					<img class="h-20 icon" src="../../public/logo/AE.png" alt="After Effects">
 				</div>
 			</div>
