@@ -23,19 +23,19 @@ const projects = [
 	{
 		title: 'Agrotourisme Laurentides',
 		description: 'Un site web réalisé dans le cadre d\'un projet scolaire. Nous avions comme mandat de créer un site web pour une entreprise fictive. Nous devions créer un site web de A à Z, incluant la création du logo, la charte graphique, le design et le développement du site web. Nous devions réaliser un site de reservation d\'emplacement de camping et de chalet dans la région des Laurentides.',
-		image: '../src/assets/Agrotourisme.svg',
+		image: 'assets/Agrotourisme.svg',
 		link: 'https://www.google.com',
 	},
 	{
 		title: 'Bucherons Boreal Gastronomie Rustique',
 		description: 'Une application web réalisé dans le cadre d\'un projet scolaire. Nous avions comme mandat de créer un site web pour une entreprise fictive. Nous avions le mandat de créer une application web de commande en ligne pour un camion de cuisine de rue. J\ai utiliser le framework React pour réaliser ce projet.',
-		image: '../src/assets/BBGR.svg',
+		image: 'assets/BBGR.svg',
 		link: 'https://www.google.com',
 	},
 	{
 		title: 'Audify',
 		description: 'Une application web pour écouter de la musique. J\'ai réalisé ce projet dans le cadre d\'un projet scolaire. J\'ai utilisé le framework React pour réaliser ce projet. ',
-		image: '../src/assets/Audify.svg',
+		image: 'assets/Audify.svg',
 		link: 'https://audifymusic.netlify.app/',
 	},
 	// {
