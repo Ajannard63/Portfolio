@@ -6,7 +6,7 @@
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-700 border-opacity-60 rounded-lg overflow-hidden">
             <img class="lg:h-48 md:h-36 w-full object-cover object-center bg-white text-black"
-              src="/assets/Agrotourisme.svg" alt="Agrotourisme Laurentides">
+              src="..../assets/Agrotourisme.svg" alt="Agrotourisme Laurentides">
             <div class="p-6">
               <h2 class="text-xl font-medium text-cyan-300 mb-1">Agrotourisme Laurentides</h2>
               <p class="leading-relaxed mb-3">Description du projet Agrotourisme Laurentides...</p>
@@ -21,7 +21,7 @@
         <!-- Deuxième projet -->
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-700 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-48 md:h-36 w-full object-cover object-center bg-white text-black" src="/assets/BBGR.svg"
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center bg-white text-black" src="../assets/BBGR.svg"
               alt="Bûcherons Boréal Gastronomie Rustique">
             <div class="p-6">
               <h2 class="text-xl font-medium text-cyan-300 mb-1">Bûcherons Boréal Gastronomie Rustique</h2>
@@ -37,7 +37,7 @@
         <!-- Troisième projet -->
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-700 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-48 md:h-36 w-full object-cover object-center bg-white text-black" src="/assets/Audify.svg"
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center bg-white text-black" src="../assets/Audify.svg"
               alt="Audify">
             <div class="p-6">
               <h2 class="text-xl font-medium text-cyan-300 mb-1">Audify</h2>
