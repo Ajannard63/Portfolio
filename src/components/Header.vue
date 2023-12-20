@@ -7,10 +7,11 @@
 
 			<!-- Liens de navigation pour les écrans larges -->
 			<div class="hidden md:flex space-x-4">
-				<a href="#home" class="hover:text-red-500 transition-colors">Accueil</a>
-				<a href="#about" class="hover:text-red-500 transition-colors">À Propos</a>
-				<a href="#competences" class="hover:text-red-500 transition-colors">Compétences</a>
-				<a href="#projet" class="hover:text-red-500 transition-colors">Projets</a>
+				<a href="#home" class="hover:text-zinc-300 transition-colors">Accueil</a>
+				<a href="#about" class="hover:text-zinc-300 transition-colors">À Propos</a>
+				<a href="#competences" class="hover:text-zinc-300 transition-colors">Compétences</a>
+				<a href="#projet" class="hover:text-zinc-300 transition-colors">Projets</a>
+				<a href="#contact" class="hover:text-zinc-300 transition-colors">Contact</a>
 				<!-- Ajoutez d'autres liens ici -->
 			</div>
 
@@ -24,10 +25,11 @@
 
 		<!-- Menu mobile -->
 		<div :class="{ 'flex': isMenuOpen, 'hidden': !isMenuOpen }" class="flex-col md:hidden">
-			<a href="#home" class="px-4 py-2 hover:bg-red-500 transition-colors">Accueil</a>
-			<a href="#about" class="px-4 py-2 hover:text-red-500 transition-colors">À Propos</a>
-			<a href="#competences" class="px-4 py-2 hover:text-red-500 transition-colors">Compétences</a>
-			<a href="#projet" class="px-4 py-2 hover:text-red-500 transition-colors">Projets</a>
+			<a href="#home" class="px-4 py-2 hover:bg-gray-500 transition-colors">Accueil</a>
+			<a href="#about" class="px-4 py-2 hover:text-gray-500 transition-colors">À Propos</a>
+			<a href="#competences" class="px-4 py-2 hover:text-gray-500 transition-colors">Compétences</a>
+			<a href="#projet" class="px-4 py-2 hover:text-gray-500 transition-colors">Projets</a>
+			<a href="#contact" class="px-4 py-2 hover:text-gray-500 transition-colors">Contact</a>
 		</div>
 	</header>
 </template>
@@ -53,9 +55,9 @@ export default {
 /* Ajoutez ici vos styles spécifiques à l'en-tête si nécessaire */
 </style>
 
-  <!-- <a href="#home" class="hover:text-red-500">Accueil</a>
-				<a href="#about" class="hover:text-red-500">À Propos</a>
-				<a href="#competences" class="hover:text-red-500">Compétences</a>
-				<a href="#projet" class="hover:text-red-500">Portfolio</a>
-				<a href="#service" class="hover:text-red-500">Services</a>
-				<a href="#contact" class="hover:text-red-500">Contact</a> -->
+  <!-- <a href="#home" class="hover:text-gray-500">Accueil</a>
+				<a href="#about" class="hover:text-gray-500">À Propos</a>
+				<a href="#competences" class="hover:text-gray-500">Compétences</a>
+				<a href="#projet" class="hover:text-gray-500">Portfolio</a>
+				<a href="#service" class="hover:text-gray-500">Services</a>
+				<a href="#contact" class="hover:text-gray-500">Contact</a> -->

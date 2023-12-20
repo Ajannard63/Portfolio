@@ -2,7 +2,7 @@
 	<section class="bg-zinc-900 text-white body-font" id="competences">
 		<div class="container px-5 py-24 mx-auto">
 			<div class="text-center mb-20">
-				<h1 class="sm:text-3xl md:text-6xl font-medium mb-4 text-red-500">Mes Compétences</h1>
+				<h1 class="sm:text-3xl md:text-6xl font-medium mb-4 text-sky-500">Mes Compétences</h1>
 			</div>
 			<div>
 				<!-- Icônes des compétences -->
