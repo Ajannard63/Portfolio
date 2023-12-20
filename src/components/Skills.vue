@@ -7,7 +7,7 @@
 			<div>
 				<!-- Icônes des compétences -->
 				<h3 class="text-2xl mb-10 text-center text-zinc-400">Langages</h3>
-				<div class="flex justify-center gap-2 fade-in">
+				<div class="flex justify-center gap-2 fade-in flex-col md:flex-row items-center ">
 					<i class="icon text-8xl lab la-react text-blue-400"></i> <!-- React -->
 					<i class="icon text-8xl lab la-vuejs text-green-500"></i> <!-- Vue.js -->
 					<i class="icon text-8xl lab la-laravel text-red-400"></i> <!-- Laravel -->

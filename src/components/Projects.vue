@@ -9,7 +9,7 @@
               src="../assets/Agrotourisme.svg" alt="Agrotourisme Laurentides">
             <div class="p-6">
               <h2 class="text-xl font-medium text-cyan-300 mb-1">Agrotourisme Laurentides</h2>
-              <p class="leading-relaxed mb-3">Un site web réalisé dans le cadre d\'un projet scolaire. Nous avions comme mandat de créer un site web pour une entreprise fictive. Nous devions créer un site web de A à Z, incluant la création du logo, la charte graphique, le design et le développement du site web. Nous devions réaliser un site de reservation d\'emplacement de camping et de chalet dans la région des Laurentides.</p>
+              <p class="leading-relaxed mb-3">Un site web réalisé dans le cadre d'un projet scolaire. Nous avions comme mandat de créer un site web pour une entreprise fictive. Nous devions créer un site web de A à Z, incluant la création du logo, la charte graphique, le design et le développement du site web. Nous devions réaliser un site de reservation d'emplacement de camping et de chalet dans la région des Laurentides.</p>
               <a href="https://agrotourisme-laurentide.netlify.app" target="_blank"
                 class="text-cyan-300 inline-flex items-center md:mb-2 lg:mb-0">En savoir plus
                 <i class="las la-arrow-right ml-2"></i>
@@ -25,7 +25,7 @@
               alt="Bûcherons Boréal Gastronomie Rustique">
             <div class="p-6">
               <h2 class="text-xl font-medium text-cyan-300 mb-1">Bûcherons Boréal Gastronomie Rustique</h2>
-              <p class="leading-relaxed mb-3">Une application web réalisé dans le cadre d\'un projet scolaire. Nous avions comme mandat de créer un site web pour une entreprise fictive. Nous avions le mandat de créer une application web de commande en ligne pour un camion de cuisine de rue. J\ai utiliser le framework React pour réaliser ce projet.</p>
+              <p class="leading-relaxed mb-3">Une application web réalisé dans le cadre d'un projet scolaire. Nous avions comme mandat de créer un site web pour une entreprise fictive. Nous avions le mandat de créer une application web de commande en ligne pour un camion de cuisine de rue. J'ai utiliser le framework React pour réaliser ce projet.</p>
               <a href="https://bucheron-boreal.netlify.app" target="_blank"
                 class="text-cyan-300 inline-flex items-center md:mb-2 lg:mb-0">En savoir plus
                 <i class="las la-arrow-right ml-2"></i>
@@ -41,7 +41,7 @@
               alt="Audify">
             <div class="p-6">
               <h2 class="text-xl font-medium text-cyan-300 mb-1">Audify</h2>
-              <p class="leading-relaxed mb-3">Une application web pour écouter de la musique. J\'ai réalisé ce projet dans le cadre d\'un projet scolaire. J\'ai utilisé le framework React pour réaliser ce projet.</p>
+              <p class="leading-relaxed mb-3">Une application web pour écouter de la musique. J'ai réalisé ce projet dans le cadre d'un projet scolaire. J'ai utilisé le framework React pour réaliser ce projet.</p>
               <a href="https://audifymusic.netlify.app/" target="_blank"
                 class="text-cyan-300 inline-flex items-center md:mb-2 lg:mb-0">En savoir plus
                 <i class="las la-arrow-right ml-2"></i>
